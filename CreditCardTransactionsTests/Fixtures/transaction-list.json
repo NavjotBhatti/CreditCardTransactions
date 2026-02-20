@@ -1,0 +1,14 @@
+{
+  "transactions": [
+    {
+      "key": "test-key-1",
+      "transaction_type": "DEBIT",
+      "merchant_name": "Test Merchant",
+      "description": "Test description",
+      "amount": { "value": 99.99, "currency": "CAD" },
+      "posted_date": "2021-05-31",
+      "from_account": "My Account",
+      "from_card_number": "4537350001688012"
+    }
+  ]
+}
